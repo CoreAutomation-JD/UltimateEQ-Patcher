@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateDownloader", "THFDownloader\UltimateDownloader.csproj", "{57447C52-DEAB-4325-908C-7C3B8D66BEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57447C52-DEAB-4325-908C-7C3B8D66BEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57447C52-DEAB-4325-908C-7C3B8D66BEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57447C52-DEAB-4325-908C-7C3B8D66BEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57447C52-DEAB-4325-908C-7C3B8D66BEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9026E5D1-1250-4A57-AE1A-33D3A9E464F4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/THFDownloader/bin
+/THFDownloader/obj
+
+# dependencies
+
+# IDEs and editors
+/.vs
+/.vscode
+
+# misc
+
+
+# e2e
+
+
+# environment variables
+
+
+#System Files
+
